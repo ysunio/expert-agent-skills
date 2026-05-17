@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+.gemini/tmp/
+node_modules/
+dist/
+build/
+*.log
+
+# Git
+.git/
