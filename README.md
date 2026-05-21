@@ -1,15 +1,15 @@
-# Expert Agent Skills 🕵️‍♂️🛡️📊
+# Agent Development Skills 🛠️🛡️📊
 
-**Senior-level engineering rigor for AI agents.**
+**Enhancing AI agents with robust engineering practices for production.**
 
 [![Language Agnostic](https://img.shields.io/badge/Language-Agnostic-blue.svg)](#)
 [![Standard](https://img.shields.io/badge/Standard-OpenTelemetry%20%7C%20ECS-orange.svg)](#)
 
-This repository provides a collection of **Expert-level Agent Skills** designed to instill senior engineering discipline into AI coding agents.
+This repository provides a collection of **Agent Development Skills** designed to instill robust engineering discipline into AI coding agents, suitable for production environments.
 
 ---
 
-## 🚀 Why "Expert" Skills?
+## Why Advanced Agent Skills?
 
 Most AI agent skills focus on *writing code faster*. These skills focus on **writing code better** by addressing the three most common failures of AI agents:
 
